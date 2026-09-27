@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://circulaires.github.io/sitemap.xml

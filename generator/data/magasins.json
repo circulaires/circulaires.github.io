@@ -1,0 +1,1034 @@
+[
+  {
+    "slug": "provigo",
+    "nom": "Provigo",
+    "couleur": "#D22630",
+    "type": "Épicerie"
+  },
+  {
+    "slug": "metro",
+    "nom": "Metro",
+    "couleur": "#005DAA",
+    "type": "Épicerie"
+  },
+  {
+    "slug": "iga",
+    "nom": "IGA",
+    "couleur": "#C8102E",
+    "type": "Épicerie"
+  },
+  {
+    "slug": "iga-coop-idm",
+    "nom": "IGA Coop Îles-de-la-Madeleine",
+    "couleur": "#C8102E",
+    "type": "Épicerie"
+  },
+  {
+    "slug": "iga-coop-nb",
+    "nom": "IGA Coop Nouveau-Brunswick",
+    "couleur": "#C8102E",
+    "type": "Épicerie"
+  },
+  {
+    "slug": "maxi",
+    "nom": "Maxi",
+    "couleur": "#0072CE",
+    "type": "Épicerie"
+  },
+  {
+    "slug": "super-c",
+    "nom": "Super C",
+    "couleur": "#FFD100",
+    "type": "Épicerie"
+  },
+  {
+    "slug": "walmart",
+    "nom": "Walmart",
+    "couleur": "#0071CE",
+    "type": "Grande surface"
+  },
+  {
+    "slug": "adonis",
+    "nom": "Adonis",
+    "couleur": "#0E7C61",
+    "type": "Épicerie"
+  },
+  {
+    "slug": "aures",
+    "nom": "Aurès — Supermarché maghrébin",
+    "couleur": "#B5451B",
+    "type": "Épicerie"
+  },
+  {
+    "slug": "axep",
+    "nom": "Axep",
+    "couleur": "#C8102E",
+    "type": "Épicerie"
+  },
+  {
+    "slug": "bonanza",
+    "nom": "Bonanza",
+    "couleur": "#7A3E9D",
+    "type": "Épicerie"
+  },
+  {
+    "slug": "euromarche",
+    "nom": "Euromarché",
+    "couleur": "#005DAA",
+    "type": "Épicerie"
+  },
+  {
+    "slug": "fruiterie-potager",
+    "nom": "Fruiterie Potager St-Eustache / Blainville",
+    "couleur": "#17513A",
+    "type": "Épicerie"
+  },
+  {
+    "slug": "grand-marche-laval",
+    "nom": "Grand Marché Laval",
+    "couleur": "#8A6D1E",
+    "type": "Épicerie"
+  },
+  {
+    "slug": "intermarche-palumbo",
+    "nom": "Intermarché Palumbo",
+    "couleur": "#C8102E",
+    "type": "Épicerie"
+  },
+  {
+    "slug": "intermarche",
+    "nom": "L'intermarché",
+    "couleur": "#B5451B",
+    "type": "Épicerie"
+  },
+  {
+    "slug": "kim-phat",
+    "nom": "Kim Phat",
+    "couleur": "#DE2B2B",
+    "type": "Épicerie"
+  },
+  {
+    "slug": "legufruits",
+    "nom": "Légufruits",
+    "couleur": "#17513A",
+    "type": "Épicerie"
+  },
+  {
+    "slug": "marche-ami",
+    "nom": "Marché AMI",
+    "couleur": "#005DAA",
+    "type": "Épicerie"
+  },
+  {
+    "slug": "marche-atlas",
+    "nom": "Marché Atlas",
+    "couleur": "#B5451B",
+    "type": "Épicerie"
+  },
+  {
+    "slug": "marche-bonichoix",
+    "nom": "Marché Bonichoix",
+    "couleur": "#C8102E",
+    "type": "Épicerie"
+  },
+  {
+    "slug": "marche-ct",
+    "nom": "Marché C & T",
+    "couleur": "#0E7C61",
+    "type": "Épicerie"
+  },
+  {
+    "slug": "marche-esposito",
+    "nom": "Le Marché Esposito",
+    "couleur": "#444B54",
+    "type": "Épicerie"
+  },
+  {
+    "slug": "marche-frutta-si",
+    "nom": "Marché Frutta Si",
+    "couleur": "#17513A",
+    "type": "Épicerie"
+  },
+  {
+    "slug": "marche-fu-tai",
+    "nom": "Marché Fu Tai",
+    "couleur": "#DE2B2B",
+    "type": "Épicerie"
+  },
+  {
+    "slug": "marche-liantai",
+    "nom": "Marché LianTai",
+    "couleur": "#B5451B",
+    "type": "Épicerie"
+  },
+  {
+    "slug": "marche-newon",
+    "nom": "Marché Newon",
+    "couleur": "#7A3E9D",
+    "type": "Épicerie"
+  },
+  {
+    "slug": "marche-nuvo",
+    "nom": "Marché Nuvo",
+    "couleur": "#0E7C61",
+    "type": "Épicerie"
+  },
+  {
+    "slug": "marche-ocean-plus",
+    "nom": "Marché Ocean Plus",
+    "couleur": "#005DAA",
+    "type": "Épicerie"
+  },
+  {
+    "slug": "marche-richelieu",
+    "nom": "Marché Richelieu",
+    "couleur": "#C8102E",
+    "type": "Épicerie"
+  },
+  {
+    "slug": "marche-salaberry",
+    "nom": "Marché Salaberry",
+    "couleur": "#8A6D1E",
+    "type": "Épicerie"
+  },
+  {
+    "slug": "marche-sheng-tai",
+    "nom": "Marché Sheng Tai",
+    "couleur": "#DE2B2B",
+    "type": "Épicerie"
+  },
+  {
+    "slug": "marches-tradition",
+    "nom": "Les Marchés Tradition",
+    "couleur": "#B5451B",
+    "type": "Épicerie"
+  },
+  {
+    "slug": "panier-extra",
+    "nom": "Panier Extra",
+    "couleur": "#7A3E9D",
+    "type": "Épicerie"
+  },
+  {
+    "slug": "pasquier",
+    "nom": "Pasquier",
+    "couleur": "#0E7C61",
+    "type": "Épicerie"
+  },
+  {
+    "slug": "pomme-salade",
+    "nom": "Pomme Salade",
+    "couleur": "#17513A",
+    "type": "Épicerie"
+  },
+  {
+    "slug": "supermarche-atlantis",
+    "nom": "Supermarché Atlantis",
+    "couleur": "#005DAA",
+    "type": "Épicerie"
+  },
+  {
+    "slug": "supermarche-pa",
+    "nom": "Supermarché P.A.",
+    "couleur": "#C8102E",
+    "type": "Épicerie"
+  },
+  {
+    "slug": "tt-supermarche",
+    "nom": "T&T Supermarché",
+    "couleur": "#DE2B2B",
+    "type": "Épicerie"
+  },
+  {
+    "slug": "united-supermarche",
+    "nom": "United Supermarché",
+    "couleur": "#444B54",
+    "type": "Épicerie"
+  },
+  {
+    "slug": "val-mont",
+    "nom": "Val-Mont",
+    "couleur": "#17513A",
+    "type": "Épicerie"
+  },
+  {
+    "slug": "valmont",
+    "nom": "Valmont",
+    "couleur": "#0E7C61",
+    "type": "Épicerie"
+  },
+  {
+    "slug": "entrepot-viandes",
+    "nom": "L'Entrepôt de Viandes",
+    "couleur": "#8B1E1E",
+    "type": "Épicerie"
+  },
+  {
+    "slug": "odessa-poissonnier",
+    "nom": "Odessa Poissonnier",
+    "couleur": "#005DAA",
+    "type": "Épicerie"
+  },
+  {
+    "slug": "aliments-mm",
+    "nom": "Les Aliments M&M",
+    "couleur": "#1B1B6F",
+    "type": "Épicerie"
+  },
+  {
+    "slug": "tigre-geant",
+    "nom": "Tigre Géant",
+    "couleur": "#FFB612",
+    "type": "Grande surface"
+  },
+  {
+    "slug": "aliments-merci",
+    "nom": "Les Aliments Merci",
+    "couleur": "#0E7C61",
+    "type": "Épicerie santé"
+  },
+  {
+    "slug": "avril",
+    "nom": "Avril — Supermarché Santé",
+    "couleur": "#6FA22B",
+    "type": "Épicerie santé"
+  },
+  {
+    "slug": "boite-a-grains",
+    "nom": "La Boite à Grains",
+    "couleur": "#8A6D1E",
+    "type": "Épicerie santé"
+  },
+  {
+    "slug": "fleur-de-vie",
+    "nom": "À Fleur de Vie",
+    "couleur": "#7A3E9D",
+    "type": "Épicerie santé"
+  },
+  {
+    "slug": "horizon-sante",
+    "nom": "Horizon Santé",
+    "couleur": "#0E7C61",
+    "type": "Épicerie santé"
+  },
+  {
+    "slug": "la-moisson",
+    "nom": "La Moisson Supermarché Santé",
+    "couleur": "#6FA22B",
+    "type": "Épicerie santé"
+  },
+  {
+    "slug": "chrysantheme",
+    "nom": "Le Chrysanthème",
+    "couleur": "#B5451B",
+    "type": "Épicerie santé"
+  },
+  {
+    "slug": "marche-vegetarien",
+    "nom": "Marché Végétarien",
+    "couleur": "#17513A",
+    "type": "Épicerie santé"
+  },
+  {
+    "slug": "marche-vie-en-vert",
+    "nom": "Marché Vie en Vert",
+    "couleur": "#6FA22B",
+    "type": "Épicerie santé"
+  },
+  {
+    "slug": "naterro",
+    "nom": "Naterro",
+    "couleur": "#0E7C61",
+    "type": "Épicerie santé"
+  },
+  {
+    "slug": "pa-nature",
+    "nom": "PA Nature",
+    "couleur": "#17513A",
+    "type": "Épicerie santé"
+  },
+  {
+    "slug": "rachelle-bery",
+    "nom": "Rachelle-Béry",
+    "couleur": "#6FA22B",
+    "type": "Épicerie santé"
+  },
+  {
+    "slug": "tau",
+    "nom": "TAU Marché d'alimentation Naturelle",
+    "couleur": "#0E7C61",
+    "type": "Épicerie santé"
+  },
+  {
+    "slug": "vitavie",
+    "nom": "Vitavie au Naturel",
+    "couleur": "#6FA22B",
+    "type": "Épicerie santé"
+  },
+  {
+    "slug": "btrust",
+    "nom": "Btrust",
+    "couleur": "#444B54",
+    "type": "Épicerie santé"
+  },
+  {
+    "slug": "costco",
+    "nom": "Costco",
+    "couleur": "#E31837",
+    "type": "Entrepôt"
+  },
+  {
+    "slug": "club-entrepot",
+    "nom": "Club Entrepôt",
+    "couleur": "#005DAA",
+    "type": "Entrepôt"
+  },
+  {
+    "slug": "mayrand",
+    "nom": "Mayrand",
+    "couleur": "#B5451B",
+    "type": "Entrepôt"
+  },
+  {
+    "slug": "mayrand-entrepot",
+    "nom": "Mayrand Entrepôt d'Alimentation",
+    "couleur": "#B5451B",
+    "type": "Entrepôt"
+  },
+  {
+    "slug": "jean-coutu",
+    "nom": "Jean Coutu",
+    "couleur": "#004B8D",
+    "type": "Pharmacie"
+  },
+  {
+    "slug": "pharmaprix",
+    "nom": "Pharmaprix",
+    "couleur": "#CE0E2D",
+    "type": "Pharmacie"
+  },
+  {
+    "slug": "brunet",
+    "nom": "Brunet",
+    "couleur": "#00539B",
+    "type": "Pharmacie"
+  },
+  {
+    "slug": "familiprix",
+    "nom": "Familiprix",
+    "couleur": "#E4002B",
+    "type": "Pharmacie"
+  },
+  {
+    "slug": "proxim",
+    "nom": "Proxim",
+    "couleur": "#0E7C61",
+    "type": "Pharmacie"
+  },
+  {
+    "slug": "uniprix",
+    "nom": "Uniprix",
+    "couleur": "#005DAA",
+    "type": "Pharmacie"
+  },
+  {
+    "slug": "acces-pharma",
+    "nom": "Accès Pharma",
+    "couleur": "#7A3E9D",
+    "type": "Pharmacie"
+  },
+  {
+    "slug": "canadian-tire",
+    "nom": "Canadian Tire",
+    "couleur": "#D81E2C",
+    "type": "Quincaillerie & réno"
+  },
+  {
+    "slug": "rona",
+    "nom": "RONA",
+    "couleur": "#00398E",
+    "type": "Quincaillerie & réno"
+  },
+  {
+    "slug": "home-depot",
+    "nom": "Home Depot",
+    "couleur": "#F96302",
+    "type": "Quincaillerie & réno"
+  },
+  {
+    "slug": "home-hardware",
+    "nom": "Home Hardware",
+    "couleur": "#DE2B2B",
+    "type": "Quincaillerie & réno"
+  },
+  {
+    "slug": "bmr",
+    "nom": "BMR",
+    "couleur": "#C8102E",
+    "type": "Quincaillerie & réno"
+  },
+  {
+    "slug": "canac",
+    "nom": "Canac",
+    "couleur": "#E4002B",
+    "type": "Quincaillerie & réno"
+  },
+  {
+    "slug": "gagnon",
+    "nom": "GAGNON — La Grande Quincaillerie",
+    "couleur": "#005DAA",
+    "type": "Quincaillerie & réno"
+  },
+  {
+    "slug": "kent",
+    "nom": "Kent",
+    "couleur": "#0E7C61",
+    "type": "Quincaillerie & réno"
+  },
+  {
+    "slug": "laferte",
+    "nom": "Laferté",
+    "couleur": "#B5451B",
+    "type": "Quincaillerie & réno"
+  },
+  {
+    "slug": "materiaux-pont-masson",
+    "nom": "Matériaux Pont Masson",
+    "couleur": "#8A6D1E",
+    "type": "Quincaillerie & réno"
+  },
+  {
+    "slug": "materio",
+    "nom": "Matério",
+    "couleur": "#444B54",
+    "type": "Quincaillerie & réno"
+  },
+  {
+    "slug": "patrick-morin",
+    "nom": "Patrick Morin",
+    "couleur": "#C8102E",
+    "type": "Quincaillerie & réno"
+  },
+  {
+    "slug": "potvin-bouchard",
+    "nom": "Potvin & Bouchard",
+    "couleur": "#005DAA",
+    "type": "Quincaillerie & réno"
+  },
+  {
+    "slug": "timber-mart",
+    "nom": "Timber Mart",
+    "couleur": "#17513A",
+    "type": "Quincaillerie & réno"
+  },
+  {
+    "slug": "portes-fenetres-charland",
+    "nom": "Portes et Fenêtres Charland",
+    "couleur": "#444B54",
+    "type": "Quincaillerie & réno"
+  },
+  {
+    "slug": "accent",
+    "nom": "Accent",
+    "couleur": "#444B54",
+    "type": "Meubles & maison"
+  },
+  {
+    "slug": "ameublements-tanguay",
+    "nom": "Ameublements Tanguay",
+    "couleur": "#C8102E",
+    "type": "Meubles & maison"
+  },
+  {
+    "slug": "robert-leduc",
+    "nom": "Appareils Ménagers Robert Leduc",
+    "couleur": "#005DAA",
+    "type": "Meubles & maison"
+  },
+  {
+    "slug": "bain-depot",
+    "nom": "Bain Dépôt",
+    "couleur": "#0E7C61",
+    "type": "Meubles & maison"
+  },
+  {
+    "slug": "brick",
+    "nom": "Brick",
+    "couleur": "#E4002B",
+    "type": "Meubles & maison"
+  },
+  {
+    "slug": "dormez-vous",
+    "nom": "Dormez-Vous",
+    "couleur": "#7A3E9D",
+    "type": "Meubles & maison"
+  },
+  {
+    "slug": "jysk",
+    "nom": "JYSK",
+    "couleur": "#143C8A",
+    "type": "Meubles & maison"
+  },
+  {
+    "slug": "linen-chest",
+    "nom": "Linen Chest",
+    "couleur": "#8A6D1E",
+    "type": "Meubles & maison"
+  },
+  {
+    "slug": "machabee",
+    "nom": "Machabée",
+    "couleur": "#B5451B",
+    "type": "Meubles & maison"
+  },
+  {
+    "slug": "meubles-bernard-tanguay",
+    "nom": "Meubles Bernard Tanguay",
+    "couleur": "#444B54",
+    "type": "Meubles & maison"
+  },
+  {
+    "slug": "meubles-gilles-emond",
+    "nom": "Meubles Gilles Émond",
+    "couleur": "#0E7C61",
+    "type": "Meubles & maison"
+  },
+  {
+    "slug": "meubles-leon",
+    "nom": "Meubles Léon",
+    "couleur": "#E4002B",
+    "type": "Meubles & maison"
+  },
+  {
+    "slug": "meubles-marchand",
+    "nom": "Meubles Marchand",
+    "couleur": "#005DAA",
+    "type": "Meubles & maison"
+  },
+  {
+    "slug": "meubles-mont-laurier",
+    "nom": "Meubles Mont-Laurier",
+    "couleur": "#8A6D1E",
+    "type": "Meubles & maison"
+  },
+  {
+    "slug": "meubles-rd",
+    "nom": "Meubles RD",
+    "couleur": "#C8102E",
+    "type": "Meubles & maison"
+  },
+  {
+    "slug": "meubles-sinray",
+    "nom": "Meubles Sinray",
+    "couleur": "#7A3E9D",
+    "type": "Meubles & maison"
+  },
+  {
+    "slug": "stokes",
+    "nom": "Stokes",
+    "couleur": "#444B54",
+    "type": "Meubles & maison"
+  },
+  {
+    "slug": "centre-hifi",
+    "nom": "Centre HI-FI",
+    "couleur": "#E4002B",
+    "type": "Électronique"
+  },
+  {
+    "slug": "stereo-plus",
+    "nom": "Stéréo+",
+    "couleur": "#005DAA",
+    "type": "Électronique"
+  },
+  {
+    "slug": "gosselin-photo",
+    "nom": "Gosselin Photo",
+    "couleur": "#444B54",
+    "type": "Électronique"
+  },
+  {
+    "slug": "eb-games",
+    "nom": "EB Games — GameStop",
+    "couleur": "#C8102E",
+    "type": "Électronique"
+  },
+  {
+    "slug": "mondou",
+    "nom": "Mondou",
+    "couleur": "#E4002B",
+    "type": "Animalerie"
+  },
+  {
+    "slug": "chico",
+    "nom": "Chico Boutique d'Animaux",
+    "couleur": "#B5451B",
+    "type": "Animalerie"
+  },
+  {
+    "slug": "tropicazoo",
+    "nom": "Tropicazoo",
+    "couleur": "#0E7C61",
+    "type": "Animalerie"
+  },
+  {
+    "slug": "biotope",
+    "nom": "Biotope",
+    "couleur": "#005DAA",
+    "type": "Animalerie"
+  },
+  {
+    "slug": "sports-experts",
+    "nom": "Sports Experts",
+    "couleur": "#E4002B",
+    "type": "Sport & plein air"
+  },
+  {
+    "slug": "latulippe",
+    "nom": "Latulippe",
+    "couleur": "#17513A",
+    "type": "Sport & plein air"
+  },
+  {
+    "slug": "pronature",
+    "nom": "Pronature",
+    "couleur": "#0E7C61",
+    "type": "Sport & plein air"
+  },
+  {
+    "slug": "equipeur",
+    "nom": "L'Équipeur",
+    "couleur": "#444B54",
+    "type": "Sport & plein air"
+  },
+  {
+    "slug": "princess-auto",
+    "nom": "Princess Auto",
+    "couleur": "#C8102E",
+    "type": "Auto & outils"
+  },
+  {
+    "slug": "bumper-to-bumper",
+    "nom": "Bumper to Bumper",
+    "couleur": "#005DAA",
+    "type": "Auto & outils"
+  },
+  {
+    "slug": "botanix",
+    "nom": "Botanix",
+    "couleur": "#6FA22B",
+    "type": "Jardinage"
+  },
+  {
+    "slug": "jardin-du-mont",
+    "nom": "Jardin du Mont",
+    "couleur": "#17513A",
+    "type": "Jardinage"
+  },
+  {
+    "slug": "jardissimo",
+    "nom": "Jardissimo",
+    "couleur": "#0E7C61",
+    "type": "Jardinage"
+  },
+  {
+    "slug": "centre-jardinage-granby",
+    "nom": "Centre Jardinage Granby",
+    "couleur": "#6FA22B",
+    "type": "Jardinage"
+  },
+  {
+    "slug": "alcool-nb",
+    "nom": "Alcool NB",
+    "couleur": "#005DAA",
+    "type": "Alcool"
+  },
+  {
+    "slug": "hart",
+    "nom": "Hart",
+    "couleur": "#E4002B",
+    "type": "Magasin général"
+  },
+  {
+    "slug": "korvette",
+    "nom": "Korvette",
+    "couleur": "#005DAA",
+    "type": "Magasin général"
+  },
+  {
+    "slug": "rossy",
+    "nom": "Rossy",
+    "couleur": "#C8102E",
+    "type": "Magasin général"
+  },
+  {
+    "slug": "liquidation-marie",
+    "nom": "Liquidation Marie",
+    "couleur": "#7A3E9D",
+    "type": "Magasin général"
+  },
+  {
+    "slug": "bulk-barn",
+    "nom": "Bulk Barn",
+    "couleur": "#8A6D1E",
+    "type": "Magasin général"
+  },
+  {
+    "slug": "bureau-en-gros",
+    "nom": "Bureau en Gros",
+    "couleur": "#CC0000",
+    "type": "Bureau & loisirs"
+  },
+  {
+    "slug": "michaels",
+    "nom": "Michaels",
+    "couleur": "#E4002B",
+    "type": "Bureau & loisirs"
+  },
+  {
+    "slug": "long-mcquade",
+    "nom": "Long & McQuade",
+    "couleur": "#444B54",
+    "type": "Bureau & loisirs"
+  },
+  {
+    "slug": "metro-a-go",
+    "nom": "Metro — À GO !",
+    "couleur": "#005DAA",
+    "type": "Épicerie"
+  },
+  {
+    "slug": "super-c-rentree",
+    "nom": "Super C — Le Bon Coût de la Rentrée",
+    "couleur": "#FFD100",
+    "type": "Épicerie"
+  },
+  {
+    "slug": "iga-resto",
+    "nom": "IGA — Se régaler, sans la facture du resto",
+    "couleur": "#C8102E",
+    "type": "Épicerie"
+  },
+  {
+    "slug": "iga-coop-nb-resto",
+    "nom": "IGA Coop N.-B. — Se régaler, sans la facture du resto",
+    "couleur": "#C8102E",
+    "type": "Épicerie"
+  },
+  {
+    "slug": "marches-tradition-nb",
+    "nom": "Les Marchés Tradition — Nouveau-Brunswick",
+    "couleur": "#B5451B",
+    "type": "Épicerie"
+  },
+  {
+    "slug": "marche-ct-greenfield",
+    "nom": "Marché C & T — Greenfield Park",
+    "couleur": "#0E7C61",
+    "type": "Épicerie"
+  },
+  {
+    "slug": "marche-ct-st-laurent",
+    "nom": "Marché C & T — St-Laurent",
+    "couleur": "#0E7C61",
+    "type": "Épicerie"
+  },
+  {
+    "slug": "marche-ct-brossard",
+    "nom": "Marché C & T — Brossard",
+    "couleur": "#0E7C61",
+    "type": "Épicerie"
+  },
+  {
+    "slug": "marche-ct-pierrefonds",
+    "nom": "Marché C & T — Pierrefonds",
+    "couleur": "#0E7C61",
+    "type": "Épicerie"
+  },
+  {
+    "slug": "marche-newon-centre-ville",
+    "nom": "Marché Newon — Centre-Ville",
+    "couleur": "#7A3E9D",
+    "type": "Épicerie"
+  },
+  {
+    "slug": "marche-newon-jean-talon",
+    "nom": "Marché Newon — Jean-Talon",
+    "couleur": "#7A3E9D",
+    "type": "Épicerie"
+  },
+  {
+    "slug": "walmart-rentree",
+    "nom": "Walmart — Spécial Rentrée Scolaire",
+    "couleur": "#0071CE",
+    "type": "Grande surface"
+  },
+  {
+    "slug": "walmart-ecole",
+    "nom": "Walmart — L'École est commencée",
+    "couleur": "#0071CE",
+    "type": "Grande surface"
+  },
+  {
+    "slug": "familiprix-extra",
+    "nom": "Familiprix — Extra",
+    "couleur": "#E4002B",
+    "type": "Pharmacie"
+  },
+  {
+    "slug": "familiprix-sante",
+    "nom": "Familiprix — Santé",
+    "couleur": "#E4002B",
+    "type": "Pharmacie"
+  },
+  {
+    "slug": "jean-coutu-sante-beaute",
+    "nom": "Jean Coutu — Santé Beauté",
+    "couleur": "#004B8D",
+    "type": "Pharmacie"
+  },
+  {
+    "slug": "jean-coutu-prestige",
+    "nom": "Jean Coutu — Collection Prestige",
+    "couleur": "#004B8D",
+    "type": "Pharmacie"
+  },
+  {
+    "slug": "brunet-clinique",
+    "nom": "Brunet — Clinique",
+    "couleur": "#00539B",
+    "type": "Pharmacie"
+  },
+  {
+    "slug": "proxim-proximed",
+    "nom": "Proxim — Proximed",
+    "couleur": "#0E7C61",
+    "type": "Pharmacie"
+  },
+  {
+    "slug": "proxim-beaute",
+    "nom": "Proxim — Carnet Comptoir Beauté",
+    "couleur": "#0E7C61",
+    "type": "Pharmacie"
+  },
+  {
+    "slug": "uniprix-beaute",
+    "nom": "Uniprix — Carnet Beauté",
+    "couleur": "#005DAA",
+    "type": "Pharmacie"
+  },
+  {
+    "slug": "uniprix-sante",
+    "nom": "Uniprix — Santé",
+    "couleur": "#005DAA",
+    "type": "Pharmacie"
+  },
+  {
+    "slug": "rachelle-bery-sante",
+    "nom": "Rachelle-Béry — Espace Santé",
+    "couleur": "#6FA22B",
+    "type": "Épicerie santé"
+  },
+  {
+    "slug": "horizon-sante-securite",
+    "nom": "Horizon Santé — Sécurité & Bien-être",
+    "couleur": "#0E7C61",
+    "type": "Épicerie santé"
+  },
+  {
+    "slug": "horizon-sante-beaute",
+    "nom": "Horizon Santé — Beauté d'Automne",
+    "couleur": "#0E7C61",
+    "type": "Épicerie santé"
+  },
+  {
+    "slug": "bmr-agrizone",
+    "nom": "BMR — Agrizone",
+    "couleur": "#C8102E",
+    "type": "Quincaillerie & réno"
+  },
+  {
+    "slug": "bmr-acericole",
+    "nom": "BMR — Guide Acéricole",
+    "couleur": "#C8102E",
+    "type": "Quincaillerie & réno"
+  },
+  {
+    "slug": "canadian-tire-nature",
+    "nom": "Canadian Tire — En pleine Nature",
+    "couleur": "#D81E2C",
+    "type": "Quincaillerie & réno"
+  },
+  {
+    "slug": "kent-liquidation",
+    "nom": "Kent — Grande liquidation de fin d'été",
+    "couleur": "#0E7C61",
+    "type": "Quincaillerie & réno"
+  },
+  {
+    "slug": "laferte-halloween",
+    "nom": "Laferté — Lemax Halloween",
+    "couleur": "#B5451B",
+    "type": "Quincaillerie & réno"
+  },
+  {
+    "slug": "laferte-chauffage",
+    "nom": "Laferté — Poêles à bois et chauffage",
+    "couleur": "#B5451B",
+    "type": "Quincaillerie & réno"
+  },
+  {
+    "slug": "home-hardware-renovation",
+    "nom": "Home Hardware — Centre de Rénovation",
+    "couleur": "#DE2B2B",
+    "type": "Quincaillerie & réno"
+  },
+  {
+    "slug": "home-hardware-automne-hiver",
+    "nom": "Home Hardware — Automne et Hiver",
+    "couleur": "#DE2B2B",
+    "type": "Quincaillerie & réno"
+  },
+  {
+    "slug": "home-hardware-cuisine-sdb",
+    "nom": "Home Hardware — Cuisine et Salle de Bain",
+    "couleur": "#DE2B2B",
+    "type": "Quincaillerie & réno"
+  },
+  {
+    "slug": "home-hardware-ferme",
+    "nom": "Home Hardware — Vie à la ferme et rurale",
+    "couleur": "#DE2B2B",
+    "type": "Quincaillerie & réno"
+  },
+  {
+    "slug": "brick-rentree",
+    "nom": "Brick — C'est la Rentrée",
+    "couleur": "#E4002B",
+    "type": "Meubles & maison"
+  },
+  {
+    "slug": "brick-exterieur",
+    "nom": "Brick — Vie à l'extérieur",
+    "couleur": "#E4002B",
+    "type": "Meubles & maison"
+  },
+  {
+    "slug": "meubles-bernard-tanguay-electro",
+    "nom": "Meubles Bernard Tanguay — Électroménagers",
+    "couleur": "#444B54",
+    "type": "Meubles & maison"
+  },
+  {
+    "slug": "princess-auto-casse-couts",
+    "nom": "Princess Auto — Casse-Coûts",
+    "couleur": "#C8102E",
+    "type": "Auto & outils"
+  },
+  {
+    "slug": "rossy-bas-prix",
+    "nom": "Rossy — Promesse de bas prix",
+    "couleur": "#C8102E",
+    "type": "Magasin général"
+  }
+]
